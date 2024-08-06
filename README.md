@@ -20,7 +20,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![FastApi](https://img.shields.io/badge/-Flask-333333?style=flat&logo=fastapi)
+![FastApi](https://img.shields.io/badge/-FastApi-333333?style=flat&logo=fastapi)
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
