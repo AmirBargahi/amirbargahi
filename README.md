@@ -49,5 +49,5 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lightdevz&show_icons=true&theme=radical)
 
-
+<h3 align="left">Connect with me:</h3>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirb002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-bargahi/) [![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=Telegram&logoColor=white)](https://t.me/drdevz)
