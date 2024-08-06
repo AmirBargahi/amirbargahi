@@ -1,10 +1,14 @@
-# Hello, I'm Amir! 👋
+<h1 align="center">Hi 👋, I'm Amir Bargahi</h1>
+<h3 align="center">A passionate full-stack developer from Iran</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lightdevz&label=Profile%20views&color=0e75b6&style=flat" alt="lightdevz" /> </p>
 
 👨‍💻 About Me
-- 🔭 I’m currently working on enhancing my skills in Full Stack Development.
-- 🌱 I’m currently learning Kubernetes and advanced Docker techniques.
-- 💬 Ask me about anything tech-related, I'm always ready to help.
-
+- 🔭 I’m currently working on **EzoStore**.
+- 🌱 I’m currently learning **GoLang**.
+- 💬 Ask me about **Python, Nodejs**
+- 📫 How to reach me **lightdevs666@gmail.com**
+- 
 ## 🛠 Skills and Tools
 
 ### Programming Languages
@@ -15,22 +19,20 @@
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![FastApi](https://img.shields.io/badge/-Flask-333333?style=flat&logo=fastapi)
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=tailwind)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
 
 ### Databases
@@ -43,7 +45,6 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lightdevz&show_icons=true&theme=radical)
