@@ -1,24 +1,22 @@
 <h1 align="center">Hi 👋, I'm Amir Bargahi</h1>
-<h3 align="center">A passionate full-stack developer from Iran</h3>
+<h3 align="center">A passionate python backend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightdevz&label=Profile%20views&color=0e75b6&style=flat" alt="lightdevz" /> </p>
 
 👨‍💻 About Me
-- 🔭 I’m currently working on **EzoStore**.
-- 🌱 I’m currently learning **GoLang**.
-- 💬 Ask me about **Python, Nodejs**
+
+Self-driven Python backend developer with 5 years of experience. I love tackling new challenges, building cool stuff, and making solid frameworks. I'm always learning and strive to write clean, maintainable code. I aim to simplify, automate, and improve the development process whenever I can.
+
 - 📫 How to reach me **lightdevs666@gmail.com**
   
 ## 🛠 Skills and Tools
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![FastApi](https://img.shields.io/badge/-FastApi-333333?style=flat&logo=fastapi)
 
