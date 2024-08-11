@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Amir</h1>
 
 <h4>
-🚀 With 3 years of experience as a junior backend developer, I have honed my skills in creating robust web applications and RESTful APIs using Python and Node.js frameworks like Django, FastAPI, and Express.js.
+🚀 As a junior backend developer with over 3 years of experience, I have honed my skills in creating robust web applications and RESTful APIs using Python and Node.js frameworks like Django, FastAPI, and Express.js.
 <br><br>
 💡 I have a strong grasp of database management systems, including MongoDB, Redis, MySQL, and PostgreSQL. Testing is also a key focus, where I utilize frameworks such as Pytest and Jest to ensure the reliability and stability of my code.
 <br><br>
